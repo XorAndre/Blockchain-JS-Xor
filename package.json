@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-js-xor",
+  "version": "1.0.0",
+  "description": "Blockchain project with JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XorAndre/Blockchain-JS-Xor.git"
+  },
+  "author": "Andre Rodrigues (Xor)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XorAndre/Blockchain-JS-Xor/issues"
+  },
+  "homepage": "https://github.com/XorAndre/Blockchain-JS-Xor#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
